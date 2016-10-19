@@ -1,5 +1,7 @@
 # RAW photo images
 
+![](images/colorchart-iphone7plus-cloudy.jpg)
+
 RAW photo images for image processing R&D.
 
 ## License
