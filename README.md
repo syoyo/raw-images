@@ -6,7 +6,16 @@ RAW photo images for image processing R&D.
 
 ## Images
 
-images/colorchart-iphone7plus-cloudy.dng : iPhone7Plus back camera.
+* images/colorchart-iphone7plus-cloudy.dng : iPhone7Plus back camera.
+* images/colorchart-5D2-6000K.dng : CANON EOS 5D Mark II
+    * Converted by Adobe DNG Converter 8.7 for Windows.
+	* Preferences: 
+        * Compatibility: Camera Raw 7.1 and later
+        * JPEG Preview: Medium Size
+        * Don't embed fast load data
+        * Don't use lossy compression
+        * Preserve Pixel Count
+        * Don't embed original
 
 ## Contribution
 
