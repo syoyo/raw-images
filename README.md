@@ -16,6 +16,7 @@ RAW photo images for image processing R&D.
         * Don't use lossy compression
         * Preserve Pixel Count
         * Don't embed original
+* images/komainu.nef : NEF RAW(D610)
 
 ## Contribution
 
