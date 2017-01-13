@@ -17,6 +17,7 @@ RAW photo images for image processing R&D.
         * Preserve Pixel Count
         * Don't embed original
 * images/komainu.nef : NEF RAW(D610)
+* images/colorchart-eos-7d.cr2 : Canon CR2 RAW(7D)
 
 ## Contribution
 
